@@ -1,0 +1,69 @@
+.Lớp11ct2 {
+     background-color: tomato;
+     color: white;
+     padding: 10px;
+}
+ {
+  background-color: lightgreen;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
+}
+
+{
+  background-color: lightpink;
+  border: 1px solid black;
+  margin: 30px;
+  padding: 30px;
+  font-family: courier;
+  text-align: center;}
+  
+   {
+  background-color: lightblue;
+  color: black;
+  padding: 40px;
+  text-align: center;
+}
+
+body{
+	background-image: url('B.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+
+}
+
+
+h1 {
+  color: blue;
+  font-family: verdana;
+  font-size: 300%;
+  background-color: Pink;
+
+}
+
+p {
+  color: red;
+  font-family: courier;
+  font-size: 160%;
+  background-color: lightblue;
+
+}
+
+table{
+  border: 5px double black;
+  border-collapse: collapse;
+  font-size: 30px;
+}
+th,td{	
+	border: 1px solid black;
+}
+th{
+tr:nth-child(even) {
+  background-color: lightgreen;
+}
+	background-color:lightblue;
+}
+
+
+
